@@ -31,4 +31,6 @@ border-color: #fff; }
     background-color: #2c3781;
             margin-right:-15px;
 
-  }
+  }.ico-size[_ngcontent-c8] {
+    height: 25px;
+}

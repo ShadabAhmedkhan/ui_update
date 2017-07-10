@@ -16,12 +16,12 @@ td,th{
     float: right;
     display: block;
     border-radius: 0px;
-        background-color: #91347f;
+        background-color: #5f3930;
 border-color: #fff;
 }
       .panel-primary>.panel-heading {
     color: #fff;
-    background-color: #91347f;
+    background-color: #5f3930;
     /*border-color: #337ab7;*/
 }
 .panel-primary>.panel-heading {
@@ -32,7 +32,10 @@ border-color: #fff;
        margin-top: -6px;
   }
   .bg-back-ground{
-    background-color: #91347f;
+    background-color: #5f3930;
             margin-right:-15px;
 
   }
+  .ico-size[_ngcontent-c8] {
+    height: 25px;
+}

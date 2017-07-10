@@ -1,5 +1,9 @@
          <div class="panel panel-primary">
-      <div class="panel-heading">Payment<div class="box-tools box-tools-style pull-right">
+      <div class="panel-heading">
+               <span> 
+          <img [src]="'assets/img/bridgeportFinal/iconpayments.png'" class="img-square ico-size" [alt]="userName">
+           </span>
+        Payment<div class="box-tools box-tools-style pull-right">
                                         <button type="button" *ngIf="expanded" class="btn btn-flat bg-back-ground btn-sm" (click)="minimize()"   title="Minimize"><i class="fa fa-minus"></i></button>
                                         <button type="button" *ngIf="!expanded" class="btn btn-flat bg-back-ground btn-sm" (click)="expand(true,1)"   title="Expand blade"><i class="fa fa-expand"></i></button>
                                 </div></div>
