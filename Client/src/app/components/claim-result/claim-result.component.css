@@ -1,0 +1,42 @@
+.table-responsive{
+    overflow-x: hidden;
+}
+table{
+    table-layout:fixed;
+    width:99% !important;
+    overflow-x: hidden;
+}
+td,th{
+    padding-bottom:8px !important;
+    padding-top:3px !important;
+    font-size: 9pt;
+    word-wrap: break-word;
+}
+tr.active,tr.active td{
+    background:lightblue !important;
+}
+/*.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #9a2824;
+    border-color: #337ab7;
+}*/
+.shadab-css-btn{
+    float: right;
+    display: block;
+    border-radius: 0px;
+        background-color: #9a2629;
+        border-color: #fff;
+
+}
+    .panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #9a2629;
+border-color: #fff; }
+.box-tools-style{ 
+       margin-top: -6px;
+  }
+  .bg-back-ground{
+    background-color: #9a2629;
+            margin-right:-15px;
+
+  }

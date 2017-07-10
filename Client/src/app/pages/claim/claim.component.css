@@ -1,0 +1,24 @@
+.row.data{
+    font-size:9.6pt;
+}
+.row.data .box{
+    margin-bottom:0px;
+}
+.box{
+    border:1.5px solid #d2d6de;
+}
+.box .box-body{
+    overflow-x: hidden;
+}
+td,th{
+    padding-bottom:1px !important;
+    padding-top:1px !important;
+}
+.fittoSreen .box-body{
+    height:180px;
+    overflow-y: scroll;
+}
+
+.fittoSreen .box-body.claims{
+    height:250px;
+}

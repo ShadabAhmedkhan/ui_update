@@ -1,0 +1,33 @@
+.table-responsive{
+    overflow-x: hidden;
+}
+    table{
+    table-layout:fixed;
+    width:99% !important;
+    overflow-x: hidden;
+}
+td,th{
+    font-size:9pt;
+    word-wrap: break-word;
+    padding-left:2px !important;
+    padding-right:2px  !important;
+}
+.shadab-css-btn{
+    float: right;
+    display: block;
+    border-radius: 0px;
+        background-color: #2f6f3d;
+        border-color: #fff;
+}
+  .panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #2f6f3d;
+border-color: #fff;}
+.box-tools-style{ 
+       margin-top: -6px;
+  }
+  .bg-back-ground{
+    background-color: #2f6f3d;
+            margin-right:-15px;
+
+  }
